@@ -7,7 +7,7 @@
 
 ## **Summary:**
 
-This project explores and compares two approaches for handwritten digit recognition using deep neural networks. **The project is entirely in French.**
+This project, conducted with passion as part of an academic initiative at École Centrale Méditerranée, explores and compares two approaches for handwritten digit recognition using deep neural networks. **The project is entirely in French.**
 
 ## **Achievements:**
 
@@ -69,7 +69,7 @@ This project explores and compares two approaches for handwritten digit recognit
 
 ## **Links:**
 
-* **GitHub repository:** [Link to GitHub repository]
+* **GitHub repository:** [https://github.com/Adnane0002/Reconnaissance-Chiffres-Manuscrits/assets/111096803/49687f1b-442f-43a7-91a5-56f7a6919038]
 
 ## **Keywords:**
 
