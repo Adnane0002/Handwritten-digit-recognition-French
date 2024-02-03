@@ -1,0 +1,21 @@
+Requirements File for Your Handwritten Digit Recognition Project
+
+List of required libraries and modules:
+
+- numpy
+- matplotlib
+- seaborn
+- tensorflow
+- keras
+- opencv-python
+- scikit-learn
+
+Library explanations:
+
+- NumPy: Multidimensional array manipulation for storing and processing data.
+- Matplotlib: Plotting and visualization for exploring data and visualizing results.
+- Seaborn: Enhances statistical visualizations created with Matplotlib.
+- TensorFlow: Core deep learning library used to build and train the digit recognition model.
+- Keras: High-level API for TensorFlow, making it easier to create and train models.
+- OpenCV: Image processing library for capturing and preprocessing handwritten digit images.
+- Scikit-learn: Machine learning tools for evaluating model performance and generating the confusion matrix.
