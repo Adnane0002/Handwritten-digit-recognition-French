@@ -54,10 +54,8 @@ This project, conducted with passion as part of an academic initiative at École
 
 ## **Repository Structure:**
 
-* **Folder `Handwritten_Digit_Recognition_LAMNAOUAR_Adnane_KHIATI_Asmae`:** Contains the different files used for this project.
-* **File `Handwritten_Digit_Recognition_LAMNAOUAR_Adnane_KHIATI_Asmae.html`:** The Jupyter notebook converted to a web page.
-* **`*.py` files:** The Python scripts used for the implementation of the models, the application, and the system.
-* **`data` folder:** Contains the data used for the project, including the MNIST dataset and the custom data.
+* **Folder `Reconnaissance-Chiffres-Manuscrits`:** Contains the different files used for this project.
+* **File `Handwritten_Digit_Recognition.jpynb`:** The Jupyter notebook
 * **`README.md` file:** This file.
 
 ## **Using the Repository:**
